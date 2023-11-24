@@ -1,1 +1,22 @@
+#EXTM3U url-logos="http://192.168.1.1/iptv/media/"
 
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="CCTV1.png" group-title="央视频道",CCTV-1综合1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="CCTV1.png" group-title="央视频道",CCTV-1综合2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="CCTV1.png" group-title="央视频道",CCTV-1综合3
+http://cfss.cc/api/ysp/cctv1.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="CCTV2.png" group-title="央视频道",CCTV-2财经1
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="CCTV2.png" group-title="央视频道",CCTV-2财经2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="CCTV2.png" group-title="央视频道",CCTV-2财经3
+http://cfss.cc/api/ysp/cctv2.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="CCTV3.png" group-title="央视频道",CCTV-3综艺1
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="CCTV3.png" group-title="央视频道",CCTV-3综艺2
+http://cfss.cc/api/ysp/cctv3.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="CCTV3.png" group-title="央视频道",CCTV-3综艺3
+https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="CCTV13.png" group-title="央视频道",CCTV-13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
